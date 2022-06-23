@@ -9,7 +9,7 @@ const reviews = [
 	{
 		id: 2,
 		name: "Saklain",
-		job: "web developer",
+		job: "QA",
 		img: "https://images.pexels.com/photos/12447940/pexels-photo-12447940.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
 		text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rem atque natus culpa, quibusdam sunt	quis voluptates, iure dolores iste qui numquam quaerat nemo beatae saepe, officiis delectus vero officia in."
 	},
